@@ -1,0 +1,6 @@
+folderOutput/*
+images/*
+dataset/*
+!folderOutput/.gitkeep
+!images/.gitkeep
+!dataset/.gitkeep
